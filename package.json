@@ -1,0 +1,20 @@
+{
+  "name": "jrsrecursionhw",
+  "version": "1.0.0",
+  "description": "JRS Recursion Exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottSandman/jrsrecursionhw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScottSandman/jrsrecursionhw/issues"
+  },
+  "homepage": "https://github.com/ScottSandman/jrsrecursionhw#readme"
+}
